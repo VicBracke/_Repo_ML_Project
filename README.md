@@ -1,6 +1,6 @@
-# Machine Learning report for MLLB 
+# Machine Learning Repository for PRDL & MLLB courses
 
-This repository contains the code files that are created for the course of Machine Learning Lab.
+This repository contains the data and code files that are created for the course of Predictive and Descriptive Learning & Machine Learning Lab.
 
 ## Directories
 
